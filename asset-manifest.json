@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.9aeac0d3.css",
-    "main.js": "/your-repo-name/static/js/main.c9253d50.js",
-    "static/js/453.0e4a0b72.chunk.js": "/your-repo-name/static/js/453.0e4a0b72.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.9aeac0d3.css.map": "/your-repo-name/static/css/main.9aeac0d3.css.map",
-    "main.c9253d50.js.map": "/your-repo-name/static/js/main.c9253d50.js.map",
-    "453.0e4a0b72.chunk.js.map": "/your-repo-name/static/js/453.0e4a0b72.chunk.js.map"
+    "main.css": "/BrainScan/static/css/main.9aeac0d3.css",
+    "main.js": "/BrainScan/static/js/main.e246fe2c.js",
+    "static/js/453.0e4a0b72.chunk.js": "/BrainScan/static/js/453.0e4a0b72.chunk.js",
+    "index.html": "/BrainScan/index.html",
+    "main.9aeac0d3.css.map": "/BrainScan/static/css/main.9aeac0d3.css.map",
+    "main.e246fe2c.js.map": "/BrainScan/static/js/main.e246fe2c.js.map",
+    "453.0e4a0b72.chunk.js.map": "/BrainScan/static/js/453.0e4a0b72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9aeac0d3.css",
-    "static/js/main.c9253d50.js"
+    "static/js/main.e246fe2c.js"
   ]
 }
